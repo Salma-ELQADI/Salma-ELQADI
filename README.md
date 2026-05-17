@@ -2,7 +2,7 @@
 
 # ✨ Salma EL QADI ✨
 
-**Full-Stack Web Developer | UI Design Enthusiast**
+**Full-Stack Web Developer | UI Design Lover**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Laravel+%7C+React+%7C+PHP;Building+elegant+and+modern+web+experiences+✨" />
 
@@ -22,8 +22,6 @@
 
 A passionate **Full-Stack Developer** focused on building modern, scalable, and visually pleasing web applications.  
 I thrive at the **intersection of logic and creativity**, crafting seamless user experiences that are both beautiful and functional.
-
-> ✨ *"Code is my canvas, creativity is my brush"* ✨
 
 ---
 
