@@ -33,33 +33,3 @@ MySQL | SQL Server
 
 ### 🛠️ Tools
 Git | GitHub | Postman | Figma | Trello | Jira
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Naheedo12&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naheedo12&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Naheedo12/Naheedo12/output/snake.svg" />
-
----
-
-## 👾 Pacman Animation
-
-<img src="https://raw.githubusercontent.com/Naheedo12/Naheedo12/output/pacman.svg" />
-
----
-
-## 🌸 Soft Aesthetic Divider
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
