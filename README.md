@@ -69,9 +69,41 @@ A passionate **Full-Stack Developer** focused on building modern, scalable, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naheedo12&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&icon_color=FFB6C1&text_color=f8f8f2" height="160" alt="GitHub Stats" />
+**✦ Contribution Insights ✦**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naheedo12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=f8f8f2" height="160" alt="Top Languages" />
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      
+**📈 GitHub Statistics**
+
+<img src="https://github-readme-stats.vercel.app/api?username=Naheedo12&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&icon_color=FFB6C1&text_color=f8f8f2&rank_icon=github" height="200" alt="GitHub Stats" />
+
+    </td>
+    <td align="center" width="50%">
+      
+**💻 Top Languages**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naheedo12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=f8f8f2" height="200" alt="Top Languages" />
+
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      
+---
+
+> ***Every commit is a step forward.*** Each line of code tells a story of growth, creativity, and dedication to the craft.
+
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 </div>
 
