@@ -94,57 +94,16 @@ I thrive at the **intersection of logic and creativity**, crafting seamless user
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Naheedo12&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&icon_color=FFB6C1&text_color=f8f8f2&card_width=400" />
-      <br />
-      <sub>🌟 GitHub Stats 🌟</sub>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naheedo12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=f8f8f2&card_width=400" />
-      <br />
-      <sub>💻 Most Used Languages 💻</sub>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=Naheedo12&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&icon_color=FFB6C1&text_color=f8f8f2" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naheedo12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=f8f8f2" height="160" />
 
 </div>
 
 <br>
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naheedo12&theme=radical&hide_border=true&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=FFB6C1&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=FF69B4&sideLabels=FF69B4" />
-      <br />
-      <sub>🔥 Contribution Streak 🔥</sub>
-    </td>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Naheedo12&theme=radical&no-frame=true&row=1&column=3&margin-w=15&margin-h=15" />
-      <br />
-      <sub>🏆 GitHub Trophies 🏆</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naheedo12&theme=radical" />
-      <br />
-      <sub>📊 Detailed Activity 📊</sub>
-    </td>
-  </tr>
-</table>
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naheedo12&theme=radical&hide_border=true&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=FFB6C1&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=FF69B4&sideLabels=FF69B4" />
 
 </div>
 
