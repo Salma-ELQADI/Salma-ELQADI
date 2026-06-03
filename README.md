@@ -93,8 +93,8 @@ I'm still growing as a developer. I do my best to write clean code and make webs
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naheedo12&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&icon_color=FFB6C1&text_color=f8f8f2" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naheedo12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=f8f8f2" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Salma-ELQADI12&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&icon_color=FFB6C1&text_color=f8f8f2" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salma-ELQADI12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=f8f8f2" height="160" />
 
 </div>
 
@@ -102,7 +102,7 @@ I'm still growing as a developer. I do my best to write clean code and make webs
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naheedo12&theme=radical&hide_border=true&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=FFB6C1&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=FF69B4&sideLabels=FF69B4" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salma-ELQADI12&theme=radical&hide_border=true&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=FFB6C1&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=FF69B4&sideLabels=FF69B4" />
 
 </div>
 
