@@ -93,14 +93,6 @@ I'm still growing as a developer. I do my best to write clean code and make webs
 
 <div align="center">
 
-<img height="165em"
-src="https://github-readme-stats.vercel.app/api?username=Salma-ELQADI&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-<img height="165em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salma-ELQADI&layout=compact&theme=radical&hide_border=true" />
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=Salma-ELQADI&theme=radical&hide_border=true" />
 
 </div>
